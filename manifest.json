@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "description": "SeMaNeS Official",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "SeMaNeS Official",
+  "orientation": "any",
+  "scope": "/https://www.semanes.edu.my/",
+  "short_name": "SeMaNeS Official",
+  "start_url": "/https://www.semanes.edu.my/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://lh4.googleusercontent.com/B1ziWC7xPhsAjCrtxeaxrqL_k0M_dydsKUN7OSkzrUY4L13vG-k8tHYIXNfWv2B-zTPt7HfTcfA9nHVlN5yF5upA8oXUf65u9h36R7Li32FBv-3l"
+    },
+    {
+      "src": "https://lh5.googleusercontent.com/6ux_56tCnvCskwYtT9iXqyn-b3hhoVCKIXBStUDbddhmmq9oiTfDYq6X3sVVfg4z1wyDJXctonxBvhwZ5zHgucE=w16383"
+    }
+  ]
+}
